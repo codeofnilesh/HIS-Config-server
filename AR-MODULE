@@ -1,0 +1,9 @@
+server:
+  port: 9192
+spring:
+  application:
+    name: AR-MODULE
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8765/eureka
