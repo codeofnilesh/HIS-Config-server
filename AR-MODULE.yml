@@ -1,5 +1,5 @@
 server:
-  port: 9198
+  port: 9191
 spring:
   application:
     name: AR-MODULE
